@@ -8,7 +8,7 @@ Watch the [WebRTC Explanation on YouTube](https://youtu.be/WmR9IMUD_CY) and foll
 ## Usage   
 
 Update the firebase project config in the main.js file. 
-
+    
 ```
 git clone <this-repo>
 npm install
