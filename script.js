@@ -2,7 +2,7 @@ const startButton = document.getElementById('start');
 const remoteAudio = document.getElementById('remoteAudio');
 let localStream;
 let peerConnection;
-  
+   
 const serverConfig = {
     iceServers: [{ urls: 'stun:stun.l.google.com:19302' }]
 };
